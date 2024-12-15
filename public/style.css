@@ -1,0 +1,29 @@
+
+       .card{
+        
+        border: 1px solid  black;
+        width: 300px;
+        height: 100%;
+       }
+       .card_header{
+        font-weight: bold;
+        padding-left: 20px;
+        margin-top: 10px;
+        
+       }
+       .row img{
+        width: 100px;
+       }
+       .card_section{
+        display: grid;
+        grid-template-columns: 6fr 6fr;
+        padding: 20px;
+       }
+       .card_footer{
+        padding-left: 20px;
+        padding-bottom: 20px;
+       }
+       p{
+        margin-top: -6px;
+       }
+    
